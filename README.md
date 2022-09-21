@@ -1,4 +1,4 @@
-### Olá, eu sou Laís Vidoto, muito prazer!! Sou curiosa, e busco sempre me aprimorar, e pesquisar tendências e testa-las.
+### Olá, eu sou Laís Vidoto, muito prazer!! Sou curiosa, e busco sempre me aprimorar, pesquisar tendências e testa-las.
 
 <!--
 Here are some ideas to get you started:
