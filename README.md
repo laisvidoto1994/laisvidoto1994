@@ -33,6 +33,7 @@ Tema Customizado para Github-> https://github.com/anuraghazra/github-readme-stat
   
 ##
  
+-- icones de lingugens e Frameworks  
 <div style="display: inline_block"> 
   <!-- front-end -->
   <img align="center" alt="icone angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"> 
@@ -48,7 +49,8 @@ Tema Customizado para Github-> https://github.com/anuraghazra/github-readme-stat
 </div>
   
 ##
-  
+ 
+-- botões do linkedin e gmail  
 <div style="display: inline_block"> 
  <!-- contatos -->
   <a href="mailto: lais.vidoto@gmail.com" target="_blank"><img align="center" alt="icone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
