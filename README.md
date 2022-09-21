@@ -1,4 +1,5 @@
-### Olá, eu sou Laís Vidoto, muito prazer!! Sou curiosa, e busco sempre me aprimorar, pesquisar tendências e testa-las.
+### Olá, eu sou Laís Vidoto, muito prazer!! 
+😄 Sou curiosa, e busco sempre me aprimorar, pesquisar tendências e testa-las.
 
 <!--
 Here are some ideas to get you started:
@@ -25,6 +26,7 @@ Tema Customizado para Github-> https://github.com/anuraghazra/github-readme-stat
 
 ##
 
+<!-- graficos gerados oriundas dos dados de postagens no github -->
 <div> 
   <a href="https://github.com/laisvidoto1994">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisvidoto1994&show_icons=true&theme=dracula"/>
@@ -33,7 +35,7 @@ Tema Customizado para Github-> https://github.com/anuraghazra/github-readme-stat
   
 ##
  
--- icones de lingugens e Frameworks  
+<!-- icones de lingugens e Frameworks -->
 <div style="display: inline_block"> 
   <!-- front-end -->
   <img align="center" alt="icone angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"> 
@@ -49,10 +51,9 @@ Tema Customizado para Github-> https://github.com/anuraghazra/github-readme-stat
 </div>
   
 ##
- 
--- botões do linkedin e gmail  
+  
+<!-- botões do linkedin e gmail  -->
 <div style="display: inline_block"> 
- <!-- contatos -->
   <a href="mailto: lais.vidoto@gmail.com" target="_blank"><img align="center" alt="icone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/laís-vidoto-a0131b138/" target="_blank"><img align="center" alt="icone linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </div>  
